@@ -72,3 +72,5 @@ deploy:
   type: git
   repository: https://github.com/lidedede/lidedede.github.io.git
   branch: lidedede
+  user: lidedede
+  pass: Lidedong31
