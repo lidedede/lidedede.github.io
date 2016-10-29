@@ -71,4 +71,4 @@ theme: maupassant
 deploy:
   type: git
   repository: https://github.com/lidedede/lidedede.github.io.git
-  branch: master
+  branch: lidedede
