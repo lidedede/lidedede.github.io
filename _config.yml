@@ -64,6 +64,17 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: cleanLDD
+plugins: 
+- hexo
+- hexo-deployer-git
+- hexo-generator-archive
+- hexo-generator-category
+- hexo-generator-index
+- hexo-generator-tag
+- hexo-renderer-ejs
+- hexo-renderer-marked
+- hexo-server
+
 #theme: CleanBlog
 
 # Deployment
