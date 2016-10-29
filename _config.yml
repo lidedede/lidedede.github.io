@@ -69,6 +69,6 @@ theme: maupassant
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-    type: git
-    repository: http://github.com/lidedede/lidedede.github.io.git
-    branch: master
+  type: git
+  repository: https://github.com/lidedede/lidedede.github.io.git
+  branch: master
